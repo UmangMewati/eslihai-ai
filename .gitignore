@@ -1,0 +1,16 @@
+﻿# Node.js dependencies (frontend)
+frontend/node_modules/
+
+# Python virtual environment (backend)
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+
+# VSCode settings and workspace
+.vscode/
+
+# Logs
+*.log
+
+# Env files with secrets
+*.env
